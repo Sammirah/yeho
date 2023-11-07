@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(182, 221, 255);
+}
+.botao {
+    background-color: rgb(200, 229, 255);
+    padding: 3px;
+    width: 150px;
+    border-radius: 10px;
+}
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #CAE1FF;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+.nhamnhamnham {
+    color:#FFFAFA;
+}
